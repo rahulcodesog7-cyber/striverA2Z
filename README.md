@@ -1,2 +1,2 @@
 # striverA2Z
-complete strivers a2z sheet, problem and my solutions
+complete strivers a2z sheet, problem and my solutions in java
