@@ -4,6 +4,7 @@
 // 123
 // 1234
 // 12345
+package pattern;
 import java.util.*;
 public class pattern3{
     public static void main(String args[]){

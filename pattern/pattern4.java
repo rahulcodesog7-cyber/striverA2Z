@@ -4,6 +4,7 @@
 // 333
 // 4444
 // 55555
+package pattern;
 import java.util.*;
 public class pattern4{
     public static void main(String args[]){
