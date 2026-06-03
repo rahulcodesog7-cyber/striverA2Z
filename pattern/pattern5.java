@@ -1,0 +1,22 @@
+//pattern5
+// *****
+// ****
+// ***
+// **
+// *
+import java.util.*;
+public class pattern5{
+    public static void main(String args[]){
+        Scanner sc= new Scanner(System.in);
+        int row=0;
+        System.out.println("enter the number of rows:");
+        row=sc.nextInt();
+        for(int i=0;i<row;i++){
+            for(int j=row;j>i;j--){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+        sc.close();
+    }
+}
