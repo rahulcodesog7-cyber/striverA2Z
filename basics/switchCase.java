@@ -36,5 +36,6 @@ public class switchCase{
                     }
             default:  System.out.println("invalid input");
         }
+        sc.close();
     }
 }

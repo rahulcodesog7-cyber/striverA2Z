@@ -13,5 +13,6 @@ public class forloop{
             sum+=low;
         }
         System.out.print("sum:"+sum);
+        sc.close();
     }
 }

@@ -18,5 +18,6 @@ public class ifElse{
         else if(marks >= 50) System.out.println("Grade C");
         else if(marks >= 35) System.out.println("Grade D");
         else System.out.println("Fail");
+        sc.close();
     }
 }

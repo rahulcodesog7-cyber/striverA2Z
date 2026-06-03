@@ -9,5 +9,6 @@ public class inputOutput{
         System.out.println("enter the number:");
         n=sc.nextInt();
         System.out.println(n);
+        sc.close();
     }
 }
